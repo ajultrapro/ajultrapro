@@ -76,8 +76,8 @@
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ajultrapro&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=2FB457&icon_color=6A4FD0&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajultrapro&layout=compact&langs_count=8&hide_border=true&title_color=2FB457&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages"/>
+  <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajultrapro&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=2FB457&icon_color=6A4FD0&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats"/>
+  <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajultrapro&layout=compact&langs_count=8&hide_border=true&title_color=2FB457&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -85,16 +85,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajultrapro&bg_color=0D1117&color=2FB457&line=6A4FD0&point=C9D1D9&area=true&hide_border=true" alt="Activity Graph" width="98%"/>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajultrapro&theme=github_dark" alt="Profile Summary"/>
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════  TROPHIES  ═══════════════════════════════ -->
-## 🏆 &nbsp;Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajultrapro&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="Trophies" width="98%"/>
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajultrapro&theme=github_dark" alt="Repos per language"/>
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajultrapro&theme=github_dark&utcOffset=5.5" alt="Productive time"/>
 </div>
 
 <br/>
