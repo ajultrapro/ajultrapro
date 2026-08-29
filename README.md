@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/arijit-ghosh-173823195"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="26" alt="LinkedIn" /></a>
+  <a href="https://in.linkedin.com/in/arijit-ghosh-173823195"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="26" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:official.mrarijit@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="26" alt="Email" /></a>
   &nbsp;&nbsp;&nbsp;
