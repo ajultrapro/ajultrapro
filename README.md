@@ -29,7 +29,8 @@ I'm a full-stack developer focused on **financial software** — trading systems
 
 - **Trading &amp; market systems** — real-time price tracking, signal validation, and first-touch outcome engines
 - **Research &amp; analytics tooling** — analyst dashboards, automated reporting, and delivery workflows
-- **Full-stack delivery** — PHP / MySQL back-ends, vanilla-JS PWAs, and Python for data and automation
+- **Sales &amp; CRM tooling** — lead pipelines, follow-ups, renewals, call-log and WhatsApp sync, and per-person access control
+- **Full-stack delivery** — PHP / MySQL and Node.js / SQLite back-ends, vanilla-JS PWAs, and Python for data and automation
 - **Integrations** — broker &amp; market-data APIs, Telegram delivery, and HMAC-signed webhooks
 
 ---
@@ -68,10 +69,12 @@ Layered live-pricing with rate-limited broker APIs and fallbacks, feeding candle
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="38" alt="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="38" alt="SQLite" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="38" alt="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/git/F05032" height="38" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="38" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="38" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="38" alt="nginx" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/apache/D22128" height="38" alt="Apache" />
 </p>
 
