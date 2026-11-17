@@ -45,6 +45,10 @@ A research-analyst portal for creating, validating, broadcasting, and tracking e
 Layered live-pricing with rate-limited broker APIs and fallbacks, feeding candlestick charts, outcome reconstruction, and institutional-style research reports.
 `PHP` · `Python` · `REST APIs`
 
+**Sales CRM for a Research-Advisory Team**
+A sales CRM that runs alongside the research desk: lead ownership and follow-ups, renewals and win-back tracking, call-log and WhatsApp conversation sync, AI-assisted call notes, WhatsApp template campaigns, and per-person access switches checked on the server. Shipped as versioned releases with backups and rehearsals on a copy of live data before each deploy.
+`JavaScript` · `Node.js` · `SQLite` · `nginx`
+
 > Most of my work ships inside private, proprietary platforms. Happy to walk through the architecture or trade-offs on a call.
 
 ---
